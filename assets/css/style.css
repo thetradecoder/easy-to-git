@@ -314,14 +314,10 @@ html {
   font-size: 1.3rem;
 }
 .google-search-container{
-  display:flex;
-  flex-direction:row;
-  justify-content:center;
-  padding:20px;
-  background-color:transparent;
+  margin:auto;
+  max-width:500px;
+  padding-top:20px;
 }
-.google-search{
-  width:350px;
-  height:50px;
+.google-search{ 
   padding:5px;
 }
