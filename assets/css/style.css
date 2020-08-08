@@ -64,12 +64,12 @@ main {
   border: solid 2px #6c1288;
 }
 
-.my-container {
+/* .my-container { */
 /*   width: 100%; */
 /*   max-width: 1660px; */
-  margin: 0 auto;
+/*   margin: 0 auto;
   padding: 0 30px;
-}
+} */
 
 .panel {
   position: absolute;
