@@ -313,13 +313,17 @@ html {
 .show-time {
   font-size: 1.3rem;
 }
+body{
+  background-color:#00182b;
+}
 .google-search-container{
   width:100%;
   padding-top:20px;
 }
 .google-search{ 
   padding:5px;
-  max-width:500px;
+  min-width:220px;
+  max-width:470px;
   }
 #googleSearchButton{
   max-width:100px;
