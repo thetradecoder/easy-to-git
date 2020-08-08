@@ -257,7 +257,7 @@ html {
 #reviewFade {
   margin-top: 45px;
   width: 80%;
-  max-height: 58vh;
+  height:auto;
   border: none;
   margin-left: 10%;
   padding: 5%;
