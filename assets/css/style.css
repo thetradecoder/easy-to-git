@@ -81,7 +81,7 @@ main {
   transition: 0.7s ease;
   color: white;
   opacity: 0;
-  z-index: 5;
+  z-index: 9;
   border-left: 15px solid #620050;
   overflow-y: auto;
 }
@@ -251,6 +251,7 @@ html {
   background-color: #f1a7e4;
   position: relative;
 /*   min-height: 100vh; */
+
 }
 
 /*Carousel Style*/
