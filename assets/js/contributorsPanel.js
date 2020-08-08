@@ -131,7 +131,7 @@ const closeFromMain = () => {
 };
 
 const closePanel = () => {
-  sidePanel.style.right = "-400px";
+//   sidePanel.style.right = "-400px";
   sidePanel.style.opacity = 0;
   panelOpen = !panelOpen;
   main.removeEventListener("click", closeFromMain);
