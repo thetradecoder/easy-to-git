@@ -86,7 +86,7 @@ main {
   opacity: 0;
   z-index: 9;
   border-left: 15px solid #620050;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .panel::-webkit-scrollbar {
