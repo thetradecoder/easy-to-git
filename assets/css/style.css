@@ -66,7 +66,7 @@ main {
 
 .my-container {
   width: 100%;
-  max-width: 1660px;
+/*   max-width: 1660px; */
   margin: 0 auto;
   padding: 0 30px;
 }
